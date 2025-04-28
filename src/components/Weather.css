@@ -7,11 +7,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 350px;
+    max-width: 90%;
+    width: 350px;
 }
 
 .search-bar{
     width: 100%;
+    max-width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
